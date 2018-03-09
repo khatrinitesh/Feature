@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 0;
+}
+
+.choose_block{
+	padding: 50px 0;
+	background-color: #F0F0F0;
+	text-align: center;
+}
+
+.choose_title{
+	margin: 0 0 30px;
+}
+
+.choose_content .icon{
+	width: 85px;
+	height: 85px;
+	background-color: #232323;
+	display: inline-block;
+	line-height: 85px;
+	border-radius: 50%;
+	color: #fff;
+	font-size: 30px;
+	position: relative;
+	top: 43px;
+}
+
+.choose_content .caption{
+	background-color: #fff;
+	padding: 80px 40px 40px;
+}
+
+.choose_content .caption h3{
+	padding: 10px 0;
+	font-size: 20px;
+}
+
+.choose_content .caption p{
+	font-size: 18px;
+	letter-spacing: 0.8px;
+	font-weight: lighter;
+}
